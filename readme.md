@@ -14,8 +14,7 @@
 - [Technologies Used](#technologies-used)  
 - [Project Highlights](#project-highlights)  
 - [How It Works](#how-it-works)  
-- [Setup & Installation](#setup--installation)  
-- [License](#license)  
+- [Agile Testing & Deployment](#Agile Testing & Deployment)   
 
 ---
 
@@ -75,3 +74,11 @@
 7. Users submit support tickets and receive **real-time notifications** for updates, payments, and system alerts.  
 
 ---
+
+## Agile Testing & Deployment
+
+- Configured **GitHub Actions** to automatically validate code and ensure smooth collaboration on every push and pull request.  
+- Follows Agile-style practices by providing rapid feedback and preventing broken code from being merged.  
+- Once changes are merged or pushed to the **main branch**, GitHub Actions automatically deploys the latest version to the production server.  
+- This setup reduces manual steps, speeds up delivery, and keeps the production environment up to date with minimal effort.
+
