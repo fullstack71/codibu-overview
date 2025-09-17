@@ -14,7 +14,8 @@
 - [Technologies Used](#technologies-used)  
 - [Project Highlights](#project-highlights)  
 - [How It Works](#how-it-works)  
-- [Agile Testing & Deployment](#Agile Testing & Deployment)   
+- [Agile Testing & Deployment](#agile-testing--deployment)
+   
 
 ---
 
